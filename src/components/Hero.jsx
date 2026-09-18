@@ -36,23 +36,27 @@ export default function Hero() {
           <div className="inline-flex items-center gap-space-xs px-space-sm py-1 rounded bg-surface-container-high w-fit shadow-sm">
             <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
             <span className="text-label-sm uppercase text-primary tracking-widest">
-              AUTONOMOUS ROBOTICS // HIGH-RISK OPERATIONS
+              HYBRID AUTONOMOUS ROBOTIC SURGICAL STRIKE SYSTEM
             </span>
             <span className="text-outline-variant px-space-xs">|</span>
             <span className="text-label-sm text-secondary uppercase">SIM_MODE</span>
           </div>
 
           {/* Headline */}
-          <h1 className="text-headline-xl text-on-surface tracking-tight">
-            Intelligent Autonomy for{" "}
-            <span className="text-primary">High-Risk</span> Operations.
+          <h1 className="flex flex-col gap-space-xs">
+            <span className="text-headline-xl text-primary tracking-tight">
+              HARSS
+            </span>
+            <span className="text-[18px] sm:text-[22px] lg:text-[26px] font-display font-semibold text-on-surface tracking-wide leading-snug">
+              Hybrid Autonomous Robotic Surgical Strike System
+            </span>
           </h1>
 
-          {/* Subtitle */}
+          {/* Tagline */}
           <p className="text-body-lg text-on-surface-variant max-w-2xl leading-relaxed">
-            AI-powered robotic intelligence engineered to analyze hazardous environments, 
-            synthesize multi-domain risk vectors, and execute precise mission choices—reducing 
-            unnecessary human exposure to dangerous conditions.
+            Intelligent autonomy for high-risk operations — AI-powered robotic intelligence 
+            engineered to analyze hazardous environments, synthesize multi-domain risk vectors, 
+            and execute precise mission choices with human supervision.
           </p>
 
           {/* CTA Cluster */}

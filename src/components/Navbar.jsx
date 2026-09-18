@@ -36,11 +36,11 @@ export default function Navbar({ onLaunchCockpit }) {
             <div className="flex items-center gap-space-xs">
               <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse" />
               <span className="text-label-sm text-secondary uppercase tracking-widest">
-                AUTONOMOUS SYSTEMS PLATFORM
+                HYBRID AUTONOMOUS ROBOTIC SURGICAL STRIKE
               </span>
             </div>
             <span className="text-headline-md uppercase tracking-wider text-on-surface leading-none">
-              HARSS//ROBOTICS
+              HARSS//SYSTEM
             </span>
           </div>
         </div>

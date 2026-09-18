@@ -43,7 +43,7 @@ export default function Solution() {
           transition={{ duration: 0.6 }}
         >
           <span className="text-label-sm text-secondary uppercase tracking-widest mb-space-xs">
-            HYBRID AUTONOMOUS ROBOTIC SYSTEM
+            HYBRID AUTONOMOUS ROBOTIC SURGICAL STRIKE SYSTEM
           </span>
           <h2 className="text-headline-lg text-on-surface font-semibold">
             Meet HARSS Core Architecture
