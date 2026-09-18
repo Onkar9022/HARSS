@@ -4,10 +4,11 @@ import { Menu, X, Radio } from 'lucide-react';
 const navLinks = [
   { label: "Problem", href: "#problem" },
   { label: "Solution", href: "#solution" },
+  { label: "HARSS Model", href: "#proposed-model" },
   { label: "Workflow", href: "#workflow" },
   { label: "Technology", href: "#technology" },
   { label: "Digital Twin", href: "#digital-twin" },
-  { label: "Mission Control", href: "#mission-control" },
+  { label: "Team", href: "#team" },
 ];
 
 export default function Navbar({ onLaunchCockpit }) {

@@ -4,6 +4,7 @@ import StatusBar from './components/StatusBar';
 import Hero from './components/Hero';
 import Problem from './components/Problem';
 import Solution from './components/Solution';
+import ProposedModel from './components/ProposedModel';
 import Workflow from './components/Workflow';
 import Technology from './components/Technology';
 import DigitalTwin from './components/DigitalTwin';
@@ -12,6 +13,7 @@ import CockpitModal from './components/CockpitModal';
 import HumanInLoop from './components/HumanInLoop';
 import Impact from './components/Impact';
 import Roadmap from './components/Roadmap';
+import TeamSection from './components/TeamSection';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
@@ -27,6 +29,7 @@ function App() {
         <Hero />
         <Problem />
         <Solution />
+        <ProposedModel />
         <Workflow />
         <Technology />
         <DigitalTwin />
@@ -34,6 +37,7 @@ function App() {
         <HumanInLoop />
         <Impact />
         <Roadmap />
+        <TeamSection />
         <CTA onLaunchCockpit={() => setCockpitOpen(true)} />
       </main>
 
