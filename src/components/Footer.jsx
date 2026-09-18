@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="w-full px-4 md:px-margin flex flex-col md:flex-row items-center justify-between gap-space-md">
         <div className="flex items-center gap-space-md">
           <span className="text-label-md text-on-surface-variant tracking-wider uppercase">
-            © 2025 HARSS AUTONOMOUS SYSTEMS. SAFETY-CRITICAL ROBOTIC PLATFORMS.
+            © 2026 HARSS AUTONOMOUS SYSTEMS. SAFETY-CRITICAL ROBOTIC PLATFORMS.
           </span>
         </div>
         <div className="flex items-center gap-space-lg">
